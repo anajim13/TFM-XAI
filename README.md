@@ -1,4 +1,4 @@
-# TFM-XAI
+# TFM-XAI sobre pacientes con depresión y esquizofrenia
 Inteligencia Artificial Explicable para estimar la depresión y esquizofrenia en pacientes basadas en datos de sensores de IoT. 
 
 
